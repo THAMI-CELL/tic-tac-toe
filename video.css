@@ -23,7 +23,7 @@ video {
     position: absolute;
     top: 80%;
     right: 40%;
-    font-size: 30px;
+    font-size: 10px;
     font-weight: bolder;
     cursor: pointer;
 }
